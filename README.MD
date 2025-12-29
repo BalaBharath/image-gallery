@@ -5,6 +5,9 @@ A responsive image gallery built using **HTML5 and CSS3**, featuring smooth hove
 ## 📌 Project Overview
 This project displays a collection of images in a gallery format using semantic HTML elements and modern CSS styling techniques. It focuses on layout design, responsiveness, and visual effects without using JavaScript.
 
+## 🌐 Live Demo
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://balabharath.github.io/image-gallery/)
+
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3
